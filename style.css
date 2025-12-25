@@ -141,6 +141,7 @@ hr{
     filter: invert(100%);
     
 }
-#git{
-    filter: invert(100%);
+.icons:hover{
+    transform: scale(1.2);
+    transition: all 0.3s ease-in-out;
 }

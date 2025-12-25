@@ -139,7 +139,7 @@ hr{
     margin: 3px;
     align-items: center;
     filter: invert(100%);
-    
+    box-align: center;
 }
 .icons:hover{
     transform: scale(1.2);
